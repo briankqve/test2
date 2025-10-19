@@ -12,7 +12,7 @@ export default function YouTube() {
         <meta property="og:title" content="История YouTube - Развитие видеоплатформы" />
         <meta property="og:description" content="Изучите увлекательную историю создания и развития YouTube - крупнейшей видеоплатформы в мире." />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://your-domain.vercel.app/youtube" />
+        <link rel="canonical" href="https://testik1-hzxt.vercel.app/youtube" />
         <link rel="alternate" hrefLang="ru" href="https://testik1-hzxt.vercel.app/youtube" />
       </Head>
       
@@ -85,4 +85,5 @@ export default function YouTube() {
     </>
   )
 }
+
 

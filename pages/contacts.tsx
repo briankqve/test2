@@ -13,7 +13,7 @@ export default function Contacts() {
         <meta property="og:description" content="Свяжитесь с нами для получения дополнительной информации. Мы готовы ответить на ваши вопросы." />
         <meta property="og:type" content="website" />
         <link rel="canonical" href="https://your-domain.vercel.app/contacts" />
-        <link rel="alternate" hrefLang="ru" href="https://your-domain.vercel.app/contacts" />
+        <link rel="alternate" hrefLang="ru" href="https://testik1-hzxt.vercel.app/" />
       </Head>
       
       <Navigation />
@@ -102,3 +102,4 @@ export default function Contacts() {
     </>
   )
 }
+

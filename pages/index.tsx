@@ -12,7 +12,7 @@ export default function Home() {
         <meta property="og:title" content="Главная страница - Тестовый сайт" />
         <meta property="og:description" content="Добро пожаловать на наш тестовый сайт! Изучаем современные технологии веб-разработки и SEO оптимизацию." />
         <meta property="og:type" content="website" />
-        <link rel="alternate" hrefLang="ru" href="https://your-domain.vercel.app" />
+        <link rel="alternate" hrefLang="ru" href="https://testik1-hzxt.vercel.app/" />
       </Head>
       
       <Navigation />
@@ -79,3 +79,4 @@ export default function Home() {
     </>
   )
 }
+
